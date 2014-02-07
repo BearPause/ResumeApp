@@ -12,5 +12,6 @@
     <color name="green">#41C517</color>
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+    <string name="education">University of Akron (2009 - 2013)\nGPA: 3.7</string>
 
 </resources>
