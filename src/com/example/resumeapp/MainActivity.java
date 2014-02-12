@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
         listDataChild = new HashMap<String, List<String>>();
  
         // Adding child data
-        listDataHeader.add("Education");
+        listDataHeader.add(getString(R.string.education));
         listDataHeader.add("Now Showing");
         listDataHeader.add("Coming Soon..");
  
