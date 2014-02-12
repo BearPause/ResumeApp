@@ -1,4 +1,4 @@
-package info.androidhive.expandablelistview;
+package com.example.resumeapp;
  
 import java.util.HashMap;
 import java.util.List;
